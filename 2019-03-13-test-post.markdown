@@ -6,3 +6,4 @@ layout: post
 ---
 
 This is a test post please ignore
+Here is some extra content
