@@ -6,3 +6,5 @@ layout: post
 ---
 
 Here is a second test post.
+
+Here is another line on that test post.
