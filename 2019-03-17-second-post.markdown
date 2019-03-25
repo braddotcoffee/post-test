@@ -10,5 +10,7 @@ Here is a second test post.
 Here is another line on that test post.
 
 ```
-Text block
+int main(){
+  printf("Hello, world!\n");
+}
 ```
