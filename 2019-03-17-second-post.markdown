@@ -10,8 +10,6 @@ Here is a second test post.
 Here is another line on that test post.
 
 ```c
-#include <stdio.h>
-
 int main() {
   printf("Hello, world!\n");
 }
